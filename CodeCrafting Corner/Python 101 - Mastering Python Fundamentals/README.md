@@ -50,7 +50,7 @@
       <td><a href="./Chapter 1/">Click Here</a></td>
     </tr>
     <tr>
-      <td>Frameworks in Python:</td>
+      <td>Frameworks in Python</td>
       <td><a href="#">Click Here</a></td>
     </tr>
   </table>
