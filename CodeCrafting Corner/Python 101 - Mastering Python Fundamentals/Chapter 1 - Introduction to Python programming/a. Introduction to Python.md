@@ -8,7 +8,7 @@ Ready to dive into Chapter 1? Let's cover the essentials to get you started on y
 
 ## What You Will Learn
 
-In this tutorial, you will delve into the fundamentals of Python programming, equipping yourself with essential skills to become proficient in Python. The tutorial is structured into several chapters, each focusing on specific aspects of Python. Here's an overview of what you will learn in each chapter:
+In this tutorial, you will dive into the fundamentals of Python programming, equipping yourself with essential skills to become proficient in Python. The tutorial is structured into several chapters, each focusing on specific aspects of Python. Here's an overview of what you will learn in each chapter:
 
 ### Chapter 1: Basics of Python
 
@@ -48,4 +48,4 @@ So, with these topics, practical exercises, real-world applications, and communi
 
 ## Page Navigation
 
-[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./b.%20Setting%20Up%20Python.md)
+[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./b.%20Installing%20Python.md)
