@@ -1,4 +1,4 @@
-# How to Install Python on Windows
+# How to Download and Install Python on Windows
 
 As we went through what and why. In this tutorial, we'll walk you through two methods to install Python on your Windows computer: using the official Python installer and installing it from the Microsoft Store.
 
@@ -83,7 +83,64 @@ Congratulations! You have now installed Python on your Windows computer using th
 
 - Search on YouTube: If you encounter any error messages, consider searching on YouTube by typing the exact error message. This can help you find video tutorials addressing your specific issue.
 
-We're here to help you along the way, so don't hesitate to reach out for support or refer to these valuable resources.
+# How to Install Python on Linux
+
+It's important to note that installing Python on Linux follows the same process across all distributions, with the only difference being the package managers that dictate the installation commands.
+
+Some people may choose to change the package managers on their local Linux machines, and they have valid reasons for doing so. However, if you're a beginner, you can stick to the package managers that come pre-installed and follow these steps.
+
+If you're unsure about the Linux distribution you've installed, you can always search for your Linux version. For example, you can use the search term `"I have Arch Linux installed, what is my package manager"`. Odds are, if you have Arch installed, you've already configured your package manager during the OS setup itself. But that's just an Arch joke... you might not get it, hahaha.
+
+### Ubuntu and Debian-based Distros (e.g., Linux Mint)
+
+1. Open the terminal by pressing `Ctrl` + `Alt` + `T` on your keyboard.
+2. Now, we're going to update the package lists in your OS by entering the following command in the terminal:
+
+        sudo apt update
+
+    For context, the above terminal command is used on Debian-based distributions to `refresh the local package index`. `It updates a list of package information`, `downloads updated package lists`, and `ensures accurate installation`.
+
+3. Once that is done, you can proceed to install Python using the terminal itself (unlike Windows, you can download Python from the terminal):
+
+        sudo apt install python3
+
+    It is important to include the '`3`' after '`python`,' as omitting it might result in the installation of a previous version of Python (Python 2), which is not recommended due to its end-of-life status.
+
+4. After Python is installed, you can check the installed version in the CLI (which stands for Command Line Interface or the terminal) by typing the following command:
+
+        python3 --version
+
+    This should display the version of Python installed on your computer.
+
+### CentOS and RHEL-Based Distros (e.g., CentOS, RHEL, Fedora)
+
+1. Open your terminal window and enter the following command to start installing Python:
+
+        sudo yum install python3
+
+2. If you're using Fedora, you can use `dnf` instead of `yum`:
+
+        sudo dnf install python3
+
+3. Once the installation is complete, you can verify the installation by typing the following command in the terminal
+
+        python --version
+
+### Arch Linux (My Favorite Distro)
+
+1. Open a terminal window and start typing the following command to initiate the download and installation process of Python:
+
+        sudo pacman -S python
+
+2. Once the installation is complete, you can verify it by typing the following command in the same terminal:
+
+        python --version
+
+# Python on Mac OS
+
+If you're using macOS, please follow the installation documentation provided by Python at this link: [Python macOS Installation Documentation](https://docs.python.org/3/using/mac.html).
+
+> **Keep in mind that we are here to help you along the way, so don't hesitate to reach out for any help on discord.**
 
 ## Page Navigation
 
