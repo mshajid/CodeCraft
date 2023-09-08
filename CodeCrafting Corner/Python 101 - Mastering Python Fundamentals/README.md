@@ -4,6 +4,13 @@
 </div>
 
 <div align="center">
+  <div style="max-width: 600px; margin: 0 auto; padding-top: 5px;">
+    <h2>About Me</h2>
+    <p>Hello, I'm Sajid, a systems administrator and a backend developer. I have a passion for learning the language Python 🐍, a language that I find incredibly easy to learn and beginner-friendly. In this tutorial, we will go through Python basics in Chapter 1, delve into intermediate topics in Chapter 2, and ultimately, in Chapter 3, create complex programs, web application, and use Python frameworks like Django, flask and more advanced concepts. Don't worry; this tutorial is entirely beginner-friendly and will be updated regularly with new content.</p>
+  </div>
+</div>
+
+<div align="center">
   <h2>Tutorial Overview 🗺️</h2>
   <p>This tutorial will guide you through Python's core concepts, ensuring you not only understand Python but also become proficient in it. Our goal is to equip you with the knowledge and skills needed to excel in Python programming. 🧙‍♂️</p>
 </div>
@@ -17,7 +24,7 @@
 </div>
 
 <div align="center">
-  <h2>What You Will Learn 📜</h2>
+  <h2>What You Will Learn in Detail📜</h2>
 </div>
 
 - **Build a Strong Foundation:** Start by immersing yourself in Python's syntax and fundamental principles to establish a solid understanding.
@@ -34,17 +41,17 @@
   <table>
     <tr>
       <td>Introduction to Python Programming </td>
-      <td><a href="./Chapter 1/">Click Here</a></td>
+      <td><a href="./Chapter 1 - Introduction to Python programming/">Click Here</a></td>
     </tr>
     <tr>
       <td>Frameworks in Python</td>
-      <td><a href="#">Click Here</a></td>
+      <td><a href="#">Work In Progress</a></td>
     </tr>
   </table>
   <p>Feel free to explore these resources at your own pace, and if you need guidance or have questions, our community and forums are here to assist you.</p>
 </div>
 
-<div style="text-align: center; padding: 20px; border-radius: 10px;">
+<div style="text-align: center; padding: 10px; border-radius: 10px;">
   <h2>Support and Feedback 🛡️</h2>
   <p>Whether you are taking your first steps or revisiting the basics, we are here to support you throughout your learning journey. If you have questions, face challenges, or wish to share your experiences, please reach out to us on Discord.</p>
   <p style="font-size: 24px;"><a href="https://discord.gg/yHXsHjBPw4" style="text-decoration: none; color: #7289DA;">Join our Discord Community</a></p>
