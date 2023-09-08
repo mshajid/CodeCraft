@@ -52,58 +52,54 @@ This line of code is quite self-explanatory. We are instructing the interpreter 
 Congratulations! You've just written and executed your first Python program in the terminal. This is a simple but important step as you begin your journey into Python programming.
 
 
-### Writing "Hello, World" in an IDE (VSCode)
+## Writing "Hello, World" in an IDE (VSCode)
 
-Now that we've tried executing our first lines of code in the terminal, it's time for us to do the same thing in an Integrated Development Environment (IDE). We'll be using VSCode for this.
+Now that we've executed our first lines of code in the terminal, let's do the same thing using an Integrated Development Environment (IDE). We'll be using VSCode for this.
 
-If you haven't installed VS Code yet, you can follow this tutorial I wrote on how to install it:
+If you haven't installed VS Code yet, you can follow this tutorial I've prepared on how to install it:
 
 | Tutorial Link                                                     | Description                                        |
 | ----------------------------------------------------------------- | -------------------------------------------------- |
 | [🚀 Click Here](../../../Before%20You%20Start/2.%20Dev-Tools%20Setup%20Guide.md) | Setting Up Development Tools                      |
 | [⚙️ Click Here](../../../Before%20You%20Start/3.%20Workspace%20Setup%20Guide.md) | Setting Up Your Workspace in VSCode                |
 
-if you already have VSCode or any other IDEs installed then you can start following the below steps to write an run your code in a text editor.
+If you already have VSCode or any other IDE installed, you can proceed with the following steps to write and run your code in a text editor.
 
-Open VS Code and Create a new file by typing in this command in your VSCode Terminal, although it is easy to just click a button and create a new file, learning these simple commands will sure come in handy in future.
-
-Type in the following command to in your VSCode Terminal to create a file
+Open VS Code and create a new file by typing the following command in your VSCode Terminal. Although it's easy to click a button to create a new file, learning these simple commands will be useful in the future.
 
       code hello_World.py
 
 ![Create-new-file](../../../Assets/Python%20Tutorial/Basic%20Python%20Syntax/VSCode-CreatenewFile.png)
 
-Press Enter and a new python file named **Hello World.py** will open up on your VSCode but wont show up on the file tree on your left hand side of the screen. that is because the file isnt saved. 
+Press Enter, and a new Python file named **hello_world.py** will open in your VSCode. It won't appear in the file tree on the left-hand side of the screen because the file isn't saved yet.
 
 ![File-Tree-Example1](../../../Assets/Python%20Tutorial/Basic%20Python%20Syntax/File-Tree-VSCode.png)
 
-Press `Ctrl + S` to save the newly created python file and it will show up on the file tree.
+Press `Ctrl + S` to save the newly created Python file, and it will now appear in the file tree.
 
 ![File-Tree-Example2](../../../Assets/Python%20Tutorial/Basic%20Python%20Syntax/File-Tree-VSCode2.png)
 
-Now you can start typing in you first lines of code in VSCode to print Hello World on your terminal. this kind of a program is called terminal programs/applications.
+You can now start typing your first lines of code in VSCode to print "Hello, World" in your terminal. This type of program is commonly known as a terminal program or application.
 
-generally in universities or college in first year they tend to teach the basics and they also teach terminal program creations.
-
-to lets start typing in our first line of code 
+Let's start by typing our first line of code:
 
       print("Hello, World")
 
 ![Hello-World-Example1-VS](../../../Assets/Python%20Tutorial/Basic%20Python%20Syntax/Hello-World-VSCode.png)
 
-Once that is done, on your terminal type in `python` to invoke the interpreter and type in the file name `hello_World.py`
+Once that's done, go to your terminal and type `python` to invoke the Python interpreter. Then, type in the filename `hello_world.py` and press Enter
 
       python hello_world.py
 
-and click enter and it should display
+You should see:
 
       Hello World
 
 ![](../../../Assets/Python%20Tutorial/Basic%20Python%20Syntax/Hello-World-VSCode2.png)
 
-that is basically how easy it is to write and execute python codes in VSCode and in this tutorial we learnt how to write `Hello World` program in both Terminal Interpreter and in a text editor and learnt how to create a file and run python codes using terminal in vscode.
+That's how easy it is to write and execute Python code in VSCode. In this tutorial, we've learned how to create a "Hello, World" program in both the terminal interpreter and a text editor. We've also covered creating files and running Python code using the terminal in VSCode.
 
-in the next tutorial we will learn to write comments and how important it is to write comments and where and why and how to to write it properly.
+In the next tutorial, we'll learn about writing comments, their importance, where and why to use them, and how to write them properly.
 
 ## Page Navigation
 
