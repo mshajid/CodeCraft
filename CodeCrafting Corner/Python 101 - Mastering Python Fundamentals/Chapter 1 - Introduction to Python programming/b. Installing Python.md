@@ -169,4 +169,4 @@ If you're using macOS, please follow the installation documentation provided by 
 ## Page Navigation
 
 [![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./a.%20Introduction%20to%20Python.md)
-[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./c.%20Basic%20Python%20Syntax.md)
+[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./c.%20Writing%20and%20Running%20Python%20Code.md)
