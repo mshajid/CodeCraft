@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>Tutorial Overview 🗺️</h2>
-  <p>This tutorial will guide you through Python's core concepts, ensuring you not only understand Python but also become proficient in it. Our goal is to equip you with the knowledge and skills needed to excel in Python programming. 🧙‍♂️</p>
+  <p>This tutorial will guide you through Python's core concepts, ensuring you not only understand Python but also become proficient in it. Our goal is to equip you with the knowledge and skills needed to excel in programming. 🧙‍♂️</p>
 </div>
 
 <div align="center">
@@ -37,10 +37,10 @@
 
 <div align="center">
   <h2>Getting Started 🌟</h2>
-  <p>To begin your Python journey, navigate to the `Chapters` section, where tutorial materials are organized by topic. You can access these materials directly or review them online:</p>
+  <p>To begin your Python journey, navigate to one of the `Chapters`, where tutorial materials are organized by topic. You can access these materials directly by clicking on the links below</p>
   <table>
     <tr>
-      <td>Introduction to Python Programming </td>
+      <td>Chapter 1 - Introduction to Python Programming </td>
       <td><a href="./Chapter 1 - Introduction to Python programming/">Click Here</a></td>
     </tr>
     <tr>
