@@ -51,7 +51,6 @@ This line of code is quite self-explanatory. We are instructing the interpreter 
 
 Congratulations! You've just written and executed your first Python program in the terminal. This is a simple but important step as you begin your journey into Python programming.
 
-
 ## Writing "Hello, World" in an IDE (VSCode)
 
 Now that we've executed our first lines of code in the terminal, let's do the same thing using an Integrated Development Environment (IDE). We'll be using VSCode for this.
