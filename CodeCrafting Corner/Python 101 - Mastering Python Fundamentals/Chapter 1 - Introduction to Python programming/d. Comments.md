@@ -17,19 +17,22 @@ Python comments play several critical roles for beginners:
 4. **Debugging Assistance:** As you encounter issues in your code (which is entirely normal), comments can guide you to the root of the problem. They help you trace the flow of your program and pinpoint potential trouble spots.
 
 ## How to Create Python Comments
+
 In Python, you can create comments using two methods:
 
 1. **Single-line Comments:** To write a single-line comment, start the line with the `#` symbol. Anything following the `#` is treated as a comment and is ignored by the Python interpreter.
 
     Example:
+
     ```python
     # This is a single-line comment
     print("Hello, World")  # This comment explains the code
     ```
 
-2. **Multi-line Comments (Docstrings):** For more extensive explanations or documentation, you can use multi-line comments, often referred to as docstrings. These are enclosed in triple-quotes (''' or """) and are typically used to describe functions, modules, or classes.
+2. **Multi-line Comments (Docstring):** For more extensive explanations or documentation, you can use multi-line comments, often referred to as docstring. These are enclosed in triple-quotes (''' or """) and are typically used to describe functions, modules, or classes.
 
     Example:
+
     ```python
     '''
     This is a multi-line comment (docstring).
@@ -42,6 +45,7 @@ In Python, you can create comments using two methods:
     ```
 
 ## Best Practices for Python Comments
+
 Here are some essential practices for writing Python comments as a beginner:
 
 - **Clarity is Key:** Keep your comments concise and easy to understand. Strive for clarity.
@@ -51,7 +55,6 @@ Here are some essential practices for writing Python comments as a beginner:
 - **Choose Descriptive Names:** Opt for meaningful variable and function names to make your code self-explanatory, reducing the need for excessive comments.
 
 - **Maintain Comments:** If you modify your code, remember to update the associated comments to reflect the changes accurately.
-
 
 ## Page Navigation
 
