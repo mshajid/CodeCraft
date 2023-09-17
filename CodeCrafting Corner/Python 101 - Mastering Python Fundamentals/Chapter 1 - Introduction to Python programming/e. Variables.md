@@ -144,7 +144,7 @@ Think of it as naming your pets; you want something that makes sense and is easy
 
 ## Assigning Multiple Values to Variables in Python
 
-If you thought Python only lets you assign one piece of data to each variable, get ready for a surprise! Python allows you to assign multiple values to a single variable ( [Click Here to Learn about dictionaries in Python](<../../../Quick Reference/What's a Python Dictionary.md>) ), and it even supports different data types for these values.
+If you thought Python only lets you assign one piece of data to each variable, get ready for a surprise! Python allows you to assign multiple values to a single variable ( [Click Here to Learn about dictionaries in Python](#) ), and it even supports different data types for these values.
 
 <!--- have more to add --->
 
