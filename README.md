@@ -1,5 +1,3 @@
-<Github style="font-family: 'JetBrains Mono', monospace;">
-
 # Welcome to Code Craft 🚀
 
 Welcome to Code Craft, your ultimate hub for embarking on your programming journey, whether you're a novice or a seasoned pro 📚. It's never too late to delve into the fundamentals and embrace the core concepts of coding. In this repository, you'll find a rich collection crafted by subject matter experts, spanning a variety of programming languages 🌐.
@@ -56,4 +54,3 @@ We wholeheartedly invite you to become part of our vibrant Discord community. He
 **Join our Discord**: [Code Craft Discord](https://discord.gg/WSHYZkEgTX)
 
 Thank you for selecting Code Craft as your trusted resource for programming education. Let's code, learn, and grow together! 🚀📚
-</div>
