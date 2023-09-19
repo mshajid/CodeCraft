@@ -6,7 +6,7 @@
 <div align="center">
   <div style="max-width: 600px; margin: 0 auto; padding-top: 5px;">
     <h2>About Me</h2>
-    <p>Hello, I'm <a href="https://github.com/SomeOrdinaryBro">Sajid</a>, I have a passion for learning new programming languages on my free time, a language that I find incredibly easy to learn and beginner-friendly. In this tutorial, we will go through Python basics in Chapter 1, delve into intermediate topics in Chapter 2, and ultimately, in Chapter 3, create complex programs, web application, and use Python frameworks like Django, flask and more advanced concepts. Don't worry; this tutorial is entirely beginner-friendly and will be updated regularly with new content.</p>
+    <p>Hello, I'm <a href="https://github.com/SomeOrdinaryBro">Sajid</a>. I have a passion for learning new programming languages in my free time, and one language I find incredibly easy to learn and beginner-friendly is Python. In this tutorial, we will cover Python basics in Chapter 1, delve into intermediate topics in Chapter 2, and, in Chapter 3, create complex programs, web applications, and explore Python frameworks such as Django, Flask, and more advanced concepts. Don't worry; this tutorial is entirely beginner-friendly and will be regularly updated with new content.</p>
   </div>
 </div>
 

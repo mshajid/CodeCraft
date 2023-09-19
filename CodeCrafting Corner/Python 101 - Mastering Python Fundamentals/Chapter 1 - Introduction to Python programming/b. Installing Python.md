@@ -4,7 +4,6 @@ There are two simple ways to download and install Python on your Windows compute
 
 I've outlined the steps for both methods below, so you can choose the one that works best for you and follow the instructions accordingly.
 
-
 ## Method A: How to Install Python Using the Official Installer
 
 ### Step 1: Download Python
