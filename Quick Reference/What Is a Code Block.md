@@ -38,7 +38,3 @@ print("Done")
 ```
 
 In this example, everything indented under `for i in range(5):` is part of a code block. It's like following a recipe: first, we print numbers, then we say "Hello" a few times. The last `print("Done")` is outside the code block, so it runs separately.
-
----
-
-**Written by [Sajid](https://github.com/SomeOrdinaryBro)**
