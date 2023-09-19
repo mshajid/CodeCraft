@@ -1,4 +1,4 @@
-# Introduction to Python
+# A Comprehensive Introduction to Python Programming for Beginners
 
 Python is a versatile and beginner-friendly programming language. It is an interpreted language, which means that when you write Python code in a text editor, you need to use a Python interpreter to execute those lines of code.
 

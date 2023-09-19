@@ -1,4 +1,4 @@
-# How to Download and Install Python on Windows
+# Step-by-Step Guide: How to Download and Install Python on Windows
 
 There are two simple ways to download and install Python on your Windows computer. You can either use the official installer or get it from the Microsoft Store.
 
@@ -61,7 +61,7 @@ To make sure Python was installed correctly, follow these steps:
 
 If you prefer a visual tutorial, you can watch this [video tutorial](https://youtu.be/2orJ37Swtr4?feature=shared) to learn how to install Python. Please note that the video creator installs Python 3.10, but the installation process is the same across all versions.
 
-# Installing Python from Microsoft Store on Windows
+# Installing Python on Windows via Microsoft Store
 
 This tutorial will guide you through installing Python on your Windows computer using the Microsoft Store. This is a beginner-friendly guide.
 

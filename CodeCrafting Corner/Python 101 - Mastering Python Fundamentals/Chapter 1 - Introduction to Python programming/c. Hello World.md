@@ -1,4 +1,4 @@
-# Hello World
+# Hello World in Python: A Beginner's Guide
 
 ## Writing Code in the Command Line: Script Mode
 

@@ -1,4 +1,4 @@
-# Commenting in Python: Simplified
+# Python Commenting Made Simple: A Beginner's Guide
 
 In Python, comments are lines of text that the Python interpreter ignores during code execution. They exist purely for human readers to document and explain the code. Comments do not impact your program's functionality.
 
