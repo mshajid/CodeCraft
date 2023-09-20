@@ -8,6 +8,9 @@ So, whether you're using Python, Java, or any other programming language, rememb
     <img src="../../../Assets/Python%20Tutorial/Basic%20Python%20Syntax/Var-Example.webp" alt="Variable Example">
 </div>
 
+
+---
+
 ## How to Create and Use Variables in Python
 
 Creating variables in Python is a fundamental skill. In Python, you can store various types of data, such as numbers and words, in variables. This guide will walk you through the basics of creating and using variables, including data types.
@@ -70,6 +73,8 @@ z = float(53)  # z is a floating-point number with the value 53.0
 
 In this code, we're using `str()`, `int()`, and `float()` to explicitly define the data type of the variable and assign a value to it. This can be useful when you want to make sure your program interprets the data correctly.
 
+----
+
 ## How to Create Variable Names?
 
 Think of it as naming your pets; you want something that makes sense and is easy to remember. In Python, you've got quite a bit of freedom, but there are some ground rules and suggestions that you should know.
@@ -121,7 +126,7 @@ Think of it as naming your pets; you want something that makes sense and is easy
     *That's way better than using "ts" to represent a total score, right?*
 
 5. Avoid Python Keywords
-   
+
     Python has a list of special words reserved for its own purposes, like "`if`," "`else`," "`while`," and "`for`." Don't try to use these words as variable names. It's like trying to name your pet "If" - it just won't work!
 
     For example ( don't ever do this lol):
@@ -149,15 +154,15 @@ Think of it as naming your pets; you want something that makes sense and is easy
 Python makes it easy to assign values to multiple variables in a single line of code. This can be a helpful concept when you want to work with several pieces of data simultaneously. Let's explore this with some real-world examples and code.
 
 ```python
-alice, bob, carol = "Chocolate", "Gummy Bears", "Lollipops"
-print(alice)
-print(bob)
-print(carol)
+Friend_1, Friend_2, Friend_3 = "Candy_1", "Candy_2", "Candy_3"
+print(Friend_1)
+print(Friend_2)
+print(Friend_3)
 ```
 
-In this example, we have three variables: alice, bob, and carol, each representing a friend's favorite candy. When you run this code, it will display the favorite candy of each friend: Alice loves Chocolate, Bob enjoys Gummy Bears, and Carol prefers Lollipops.
+*In this example, we have three variables: Friend_1, Friend_2, and Friend_3, each representing a friend's favorite candy. When you execute this code, it will display the favorite candy of each friend: Friend_1 loves "Candy_1," Friend_2 enjoys "Candy_2," and Friend_3 prefers "Candy_3."*
 
-It's essential to ensure that the number of variables on the left side of the assignment matches the number of values on the right side. Otherwise, you will encounter an error.
+It's crucial to ensure that the number of variables on the left side of the assignment matches the number of values on the right side; otherwise, you will encounter an error. This Python feature is particularly useful for initializing multiple variables succinctly and can be employed in various scenarios, such as data processing and unpacking values from data structures like tuples and lists.
 
 ### Error - Mismatched Values and Variables
 
@@ -189,11 +194,103 @@ print(carol)
 
 This corrected code assigns "Chocolate" to alice, "Gummy Bears" to bob, and "Lollipops" to carol, ensuring that there are enough values for each variable, and it will run without errors.
 
-## Output Variables
+---
 
-## Understanding Output-Related Variables
+## Output Variables Guide
 
-## Exploring Global Variables
+In Python, when you write programs, you often want to show information to the person using your program. You can think of it like talking to the computer and asking it to show you something. To do this, we use a special tool called the print() function.
+
+If you want to learn more about the print() function and how to use it, you can check out the discussion I had on this topic in a different file, "Hello World" [**Click Here**](c.%20Hello%20World.md).
+
+### Displaying a Single Variable
+
+Imagine you have a piece of information, like a name. You want to see that name on your computer screen. To do this, you can use the print() function. Here's how you can show a name using it:
+
+```python
+name = "Alice"
+print(name)
+```
+
+When you run this code, it will show "Alice" on the screen. It's like telling Python, "Hey, please show me what's inside the name box."
+
+### Displaying Multiple Variables
+
+Sometimes, you have more than one thing you want to show. For example, let's say you have three numbers: 2, 4, and 6. You can show all of them using the print() function and separate them with commas like this:
+
+```python
+num1 = 2
+num2 = 4
+num3 = 6
+print(num1, num2, num3)
+```
+
+When you run this code, it will display "2 4 6" on the screen, with spaces between the numbers. So, print(num1, num2, num3) is like saying, "Python, please show me the values of num1, num2, and num3, and put spaces between them."
+
+### Combining Text Variables
+
+Sometimes, you want to put words together. Let's say you have a first name and a last name, and you want to display the full name. You can do that by combining the text from both variables using the + operator:
+
+```python
+first_name = "John"
+last_name = "Smith"
+full_name = first_name + " " + last_name
+print(full_name)
+```
+
+Here, first_name + " " + last_name combines the text from first_name and last_name and displays "John Smith" on the screen. Notice the space in " ", which ensures there's a space between the first and last name.
+
+### Adding Numbers
+
+If you have numbers and you want to add them together, you can use the + operator:
+
+```python
+num1 = 7
+num2 = 3
+result = num1 + num2
+print(result)
+```
+
+When you run this code, it will display "10" because num1 + num2 is like asking Python to add 7 and 3 together.
+
+### Be Careful with Mixing Text and Numbers
+
+But be cautious! If you try to mix numbers and text using the + operator, Python might get confused:
+
+```python
+age = 25
+message = "I am " + age + " years old."
+print(message)
+```
+
+In this case, Python doesn't understand how to add a number (age) and text together, so it would give you an error.
+
+### The Best Way
+
+To avoid confusion, it's safest to use commas when using the print() function. This way, you can even mix different types of information:
+
+```python
+age = 25
+message = "I am", age, "years old."
+print(message)
+```
+
+When you run this code, it will display "I am 25 years old." Using commas tells Python, "Show me both the text and the value of age."
+
+#### That's how you can easily show your information in Python using the print() function! 
+
+---
+
+## Exploring Output-Related Variables
+
+
+
+---
+
+## Understanding Global Variables in Python
+
+
+
+---
 
 [![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./d.%20Comments.md)
 [![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./f.%20Data%20Types.md)
