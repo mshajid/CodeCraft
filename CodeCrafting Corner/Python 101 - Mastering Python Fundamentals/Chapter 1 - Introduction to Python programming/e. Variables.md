@@ -196,7 +196,7 @@ This corrected code assigns "Chocolate" to alice, "Gummy Bears" to bob, and "Lol
 
 ---
 
-## Output Variables Guide
+## Exploring Output-Related Variables
 
 In Python, when you write programs, you often want to show information to the person using your program. You can think of it like talking to the computer and asking it to show you something. To do this, we use a special tool called the print() function.
 
@@ -276,19 +276,17 @@ print(message)
 
 When you run this code, it will display "I am 25 years old." Using commas tells Python, "Show me both the text and the value of age."
 
-#### That's how you can easily show your information in Python using the print() function! 
+**That's how you can easily show your information in Python using the print() function!**
 
 ---
 
-## Exploring Output-Related Variables
+## Global Variables - What Are They?
 
+Think of it as something that everyone in a family can access and use. Imagine having a computer at home that you can use to send emails, write documents, play games, and watch movies. This computer serves as our "Global Shared Resource," something available to everyone in the family, including your friends, both when they're visiting and remotely.
 
+Now, let's explore some examples to gain a clearer understanding of this concept:
 
----
-
-## Understanding Global Variables in Python
-
-
+### Sharing a Class Secret
 
 ---
 
