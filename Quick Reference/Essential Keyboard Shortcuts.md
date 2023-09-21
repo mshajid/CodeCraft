@@ -1,5 +1,7 @@
 # Windows Keyboard Shortcuts
 
+<small>Contributed by: [Sajid](https://github.com/SomeOrdinaryBro)</small>
+
 ## General Shortcuts
 
 - **CTRL+A**: Select All

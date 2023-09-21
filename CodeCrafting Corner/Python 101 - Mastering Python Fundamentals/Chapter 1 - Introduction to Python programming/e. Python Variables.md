@@ -8,7 +8,6 @@ So, whether you're using Python, Java, or any other programming language, rememb
     <img src="../../../Assets/Python%20Tutorial/Basic%20Python%20Syntax/Var-Example.webp" alt="Variable Example">
 </div>
 
-
 ---
 
 ## How to Create and Use Variables in Python
@@ -73,7 +72,7 @@ z = float(53)  # z is a floating-point number with the value 53.0
 
 In this code, we're using `str()`, `int()`, and `float()` to explicitly define the data type of the variable and assign a value to it. This can be useful when you want to make sure your program interprets the data correctly.
 
-----
+---
 
 ## How to Create Variable Names?
 
@@ -81,71 +80,71 @@ Think of it as naming your pets; you want something that makes sense and is easy
 
 1. **Start with a Letter or Underscore**
 
-    Imagine naming your dog "123Fido" - it just doesn't work, right? Well, variable names in Python are similar. They must always kick off with a letter (either uppercase or lowercase) or an underscore (_). No numbers allowed at the beginning!
+   Imagine naming your dog "123Fido" - it just doesn't work, right? Well, variable names in Python are similar. They must always kick off with a letter (either uppercase or lowercase) or an underscore (\_). No numbers allowed at the beginning!
 
-    For example:
+   For example:
 
-    ```python
-    name = "John"
-    _age = 53
-    ```
+   ```python
+   name = "John"
+   _age = 53
+   ```
 
 2. **Use Letters, Numbers, and Underscores**
 
-    Here's a twist: while you can't start with a number, you can certainly use them in your variable names. Just don't go crazy with special characters like @, $, %, and others. Spaces? Nope, Python doesn't like those either!
+   Here's a twist: while you can't start with a number, you can certainly use them in your variable names. Just don't go crazy with special characters like @, $, %, and others. Spaces? Nope, Python doesn't like those either!
 
-    For example:
+   For example:
 
-    ```python
-    _name = "John"
-    ag3 = 53
-    last_name = "Dough"
-    ```
+   ```python
+   _name = "John"
+   ag3 = 53
+   last_name = "Dough"
+   ```
 
 3. **Python Is a Stickler for Case**
 
-    Python pays close attention to capitalization. It's like having two pets with similar names - "`myName`" and "`myname`" are different in Python's eyes. So, "`myName`" and "`myname`" are two separate variables.
+   Python pays close attention to capitalization. It's like having two pets with similar names - "`myName`" and "`myname`" are different in Python's eyes. So, "`myName`" and "`myname`" are two separate variables.
 
-    For example:
+   For example:
 
-    ```python
-    myName = "John"
-    myname = "Dough"
-    ```
+   ```python
+   myName = "John"
+   myname = "Dough"
+   ```
 
 4. **Be Descriptive with Names**
 
-    Imagine if you named your fish "F" instead of "Fluffy the Fish." You'd have no idea which one is which! The same goes for variable names. Use names that tell you or anyone reading your code what the variable is all about.
+   Imagine if you named your fish "F" instead of "Fluffy the Fish." You'd have no idea which one is which! The same goes for variable names. Use names that tell you or anyone reading your code what the variable is all about.
 
-    For instance:
+   For instance:
 
-    ```python
-    john_age = 53
-    ```
+   ```python
+   john_age = 53
+   ```
 
-    *That's way better than using "ts" to represent a total score, right?*
+   _That's way better than using "ts" to represent a total score, right?_
 
 5. Avoid Python Keywords
 
-    Python has a list of special words reserved for its own purposes, like "`if`," "`else`," "`while`," and "`for`." Don't try to use these words as variable names. It's like trying to name your pet "If" - it just won't work!
+   Python has a list of special words reserved for its own purposes, like "`if`," "`else`," "`while`," and "`for`." Don't try to use these words as variable names. It's like trying to name your pet "If" - it just won't work!
 
-    For example ( don't ever do this lol):
+   For example ( don't ever do this lol):
 
-    ```python
-    if = 5  # This is not allowed
-    ```
+   ```python
+   if = 5  # This is not allowed
+   ```
 
 6. Stick to Lowercase Letters
 
-    In Python, it's common to write variable names in lowercase letters and separate words with underscores. This style is called "`snake_case`." It's like naming your pets with names like "*dog_buddy*" or "*cat_whiskers*."
+   In Python, it's common to write variable names in lowercase letters and separate words with underscores. This style is called "`snake_case`." It's like naming your pets with names like "_dog_buddy_" or "_cat_whiskers_."
 
-    For example:
+   For example:
 
-    ```python
-    student_name = "Alice"
-    ```
+   ```python
+   student_name = "Alice"
+   ```
 
-    While some people prefer "`camelCase`" (writing variable names like "userAge"), it's less common in Python. So, it's better to stick with "`snake_case`" for consistency. Ultimately, it all comes down to personal preference, in my opinion.
+   While some people prefer "`camelCase`" (writing variable names like "userAge"), it's less common in Python. So, it's better to stick with "`snake_case`" for consistency. Ultimately, it all comes down to personal preference, in my opinion.
 
 ---
 
@@ -160,7 +159,7 @@ print(Friend_2)
 print(Friend_3)
 ```
 
-*In this example, we have three variables: Friend_1, Friend_2, and Friend_3, each representing a friend's favorite candy. When you execute this code, it will display the favorite candy of each friend: Friend_1 loves "Candy_1," Friend_2 enjoys "Candy_2," and Friend_3 prefers "Candy_3."*
+_In this example, we have three variables: Friend_1, Friend_2, and Friend_3, each representing a friend's favorite candy. When you execute this code, it will display the favorite candy of each friend: Friend_1 loves "Candy_1," Friend_2 enjoys "Candy_2," and Friend_3 prefers "Candy_3."_
 
 It's crucial to ensure that the number of variables on the left side of the assignment matches the number of values on the right side; otherwise, you will encounter an error. This Python feature is particularly useful for initializing multiple variables succinctly and can be employed in various scenarios, such as data processing and unpacking values from data structures like tuples and lists.
 
@@ -280,15 +279,70 @@ When you run this code, it will display "I am 25 years old." Using commas tells 
 
 ---
 
-## Global Variables - What Are They?
+## Explained: Global Variables and Their Significance
 
 Think of it as something that everyone in a family can access and use. Imagine having a computer at home that you can use to send emails, write documents, play games, and watch movies. This computer serves as our "Global Shared Resource," something available to everyone in the family, including your friends, both when they're visiting and remotely.
 
 Now, let's explore some examples to gain a clearer understanding of this concept:
 
-### Sharing a Class Secret
+### Unlocking Family Culinary Secrets for Sharing
+
+Imagine your family has a secret for the world's best Chili Recipe stored on the family computer. This recipe is akin to a global variable because everyone in the family can access it and use it to make chili.
+
+```python
+chili_recipe = "adding more oregano to the sauce"
+
+def share_secret():
+    print("Our Family's Secret Recipe is: " + chili_recipe)
+
+share_secret()
+```
+
+In the above code, we have defined "chili_recipe" outside the function "share_secret," so the chili recipe is global. The "share_secret" function can access and use the global variable if it wants to.
+
+
+### Local vs. Global Variables: Understanding the Key Differences
+
+Now, imagine you decide to create a new secret chili recipe within your family, but you only want to share it with your closest friend. This new recipe is like a local variable; only you and your friend know about it. However, the chili recipe you created before on the family computer remains the same as a global variable. This means anyone using the computer, whether it's your family members, friends, or anyone outside your close circle, will be able to see the global recipe. You have only shared the password to the password-protected folder with the new recipe with your best friend and your family.
+
+```python
+global_chili_recipe = "adding more oregano to the sauce"
+
+def share_secret():
+    local_chili_recipe = "add the 7-spice mix and some M.S.G"
+    print("Our secret recipe is: " + local_chili_recipe)
+
+share_secret()
+
+print("Our family's recipe is: " + global_chili_recipe)
+```
+
+In the above code, we have created a local chili recipe inside the function "share_secret" and a different recipe that is available globally as "global_chili_recipe."
+
+Please note that if you attempt to access a local variable outside the function, it will result in an error.
+
+Sometimes, you might want to share a new secret chili recipe with the whole family and replace the old one on the family computer. To do this in Python, you need to use the global keyword before creating the variable inside the function.
+
+### Revamping the World's Chili Recipe: A Global Perspective
+
+```python
+chili_recipe = "adding more oregano to the sauce"
+
+def change_recipe():
+    global chili_recipe  # This informs Python that we intend to modify the global variable
+    chili_recipe = "add the 7-spice mix and some M.S.G"
+
+change_recipe()
+
+print("Our family's chili recipe is: " + chili_recipe)  # Now it's the new, exciting recipe
+
+```
+
+In the above example, we use the global keyword with chili_recipe inside the function to indicate to Python that we want to modify the global variable, rather than creating a new local one.
 
 ---
 
-[![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./d.%20Comments.md)
-[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./f.%20Data%20Types.md)
+[![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./d.%20Mastering%20Comments.md)
+[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./f.%20Demystifying%20Data%20Types%20.md)
+
+Demystifying Data Types 

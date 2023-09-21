@@ -1,5 +1,7 @@
 # Compiler vs. Interpreter: Simplifying the Key Differences
 
+<small>Contributed by: [Sajid](https://github.com/SomeOrdinaryBro)</small>
+
 When it comes to writing and running computer programs, you have two primary options: using a compiler or an interpreter. These are distinct methods for processing and executing your code.
 
 ## What is a Compiler?
