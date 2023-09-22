@@ -4,13 +4,6 @@
 </div>
 
 <div align="center">
-  <div style="max-width: 600px; margin: 0 auto; padding-top: 5px;">
-    <h2>About Me</h2>
-    <p>Hello, I'm <a href="https://github.com/SomeOrdinaryBro">Sajid</a>. I have a passion for learning new programming languages in my free time, and one language I find incredibly easy to learn and beginner-friendly is Python. In this tutorial, we will cover Python basics in Chapter 1, delve into intermediate topics in Chapter 2, and, in Chapter 3, create complex programs, web applications, and explore Python frameworks such as Django, Flask, and more advanced concepts. Don't worry; this tutorial is entirely beginner-friendly and will be regularly updated with new content.</p>
-  </div>
-</div>
-
-<div align="center">
   <h2>Tutorial Overview 🗺️</h2>
   <p>This tutorial will guide you through Python's core concepts, ensuring you not only understand Python but also become proficient in it. Our goal is to equip you with the knowledge and skills needed to excel in programming. 🧙‍♂️</p>
 </div>

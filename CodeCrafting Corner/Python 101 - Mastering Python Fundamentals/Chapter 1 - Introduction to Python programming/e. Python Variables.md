@@ -340,9 +340,7 @@ print("Our family's chili recipe is: " + chili_recipe)  # Now it's the new, exci
 
 In the above example, we use the global keyword with chili_recipe inside the function to indicate to Python that we want to modify the global variable, rather than creating a new local one.
 
----
+## Page Navigation
 
 [![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./d.%20Mastering%20Comments.md)
 [![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./f.%20Demystifying%20Data%20Types%20.md)
-
-Demystifying Data Types 

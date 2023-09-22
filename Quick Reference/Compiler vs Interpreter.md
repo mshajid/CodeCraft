@@ -22,7 +22,7 @@ A compiler serves as a language translator for computers. Imagine you're craftin
 
 6. **Translation Completion**: You receive the translated program, now in machine code, and transmit it to your computer. Your computer comprehends it and carries out the requested actions.
 
-![Compiler](../Assets/Quick%20Reference/../Quick%20Reference/Compiler.webp)
+![Compiler](<../Assets/Quick Reference/Compiler Vs Interpreter/Compiler.webpnterpreter/Compiler.webp>)
 
 The advantage of using a compiler is that it enables your program to run swiftly since it's already in the computer's native language (machine code). However, one drawback is that if you make any modifications to your program, you'll need to repeat the entire compilation process, which can be time-consuming.
 
@@ -67,7 +67,7 @@ Now, let's connect this to computers and programming:
 
 - **Immediate Results**: Just like with the interpreter at the restaurant, the cool thing about a programming interpreter is that you can see the results of your code right away. This is helpful for testing and fixing any mistakes you might make.
 
-![Interpreter](Assets/../../Assets/Quick%20Reference/Interpreter%20and%20IO%20example.webp)
+![Interpreter](../Assets/Quick%20Reference/Compiler%20Vs%20Interpreter/Interpreter%20and%20IO%20example.webp)
 
 ### Popular Languages and Their Interpreter Variants
 
