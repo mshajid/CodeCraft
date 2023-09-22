@@ -1,5 +1,8 @@
 # What is a Code Block?
 
+<small>Contributed by: [Sajid](https://github.com/SomeOrdinaryBro)</small>
+
+
 A code block is a collection of instructions that belong together. Think of it like a recipe in a cookbook—it's a set of steps to make a dish. In programming, we use code blocks to group actions that need to be done together.
 
 We show code blocks in different ways depending on the programming language we're using. In some languages, we use curly braces `{}` around them. In others, like Python, we use spaces to line up the instructions.

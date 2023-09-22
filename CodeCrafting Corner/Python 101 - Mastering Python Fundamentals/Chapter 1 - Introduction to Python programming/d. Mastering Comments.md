@@ -1,4 +1,4 @@
-# Commenting in Python: Simplified
+# Python Commenting Made Simple: A Beginner's Guide
 
 In Python, comments are lines of text that the Python interpreter ignores during code execution. They exist purely for human readers to document and explain the code. Comments do not impact your program's functionality.
 
@@ -59,4 +59,4 @@ Here are some essential practices for writing Python comments as a beginner:
 ## Page Navigation
 
 [![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./c.%20Hello%20World.md)
-[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./d.%20Comments.md)
+[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./e.%20Python%20Variables.md)
