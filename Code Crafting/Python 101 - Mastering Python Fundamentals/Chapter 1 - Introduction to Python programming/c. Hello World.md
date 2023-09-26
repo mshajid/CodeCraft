@@ -103,4 +103,4 @@ In the next tutorial, we'll learn about writing comments, their importance, wher
 ## Page Navigation
 
 [![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./b.%20Installing%20Python.md)
-[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./d.%20Comments.md)
+[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./d.%20Mastering%20Comments.md)

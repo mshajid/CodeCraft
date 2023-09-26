@@ -1,4 +1,4 @@
-# Python Data Types Explained: A Comprehensive Guide
+# Data Types Explained: A Comprehensive Guide
 
 Picture this: you're in a magical library with many sections, each containing different kinds of books. These sections are like the data types in Python—they categorize the information you're working with, helping Python understand how to use it.
 
@@ -102,7 +102,7 @@ memory = memoryview(b'\x48\x65\x6C\x6C\x6F')
 
 ### 5. Mapping Type:
 
-**dict (Dictionary)**
+[**Dictionary - Click Here to Learn More**](#)
 
 Imagine this as a key-value pair collection – great for storing and retrieving data based on unique keys.
 
@@ -239,4 +239,4 @@ In simple terms, NoneType in Python acts like an empty box labeled "NoneType." I
 ## Page Navigation
 
 [![Previous Page](https://img.shields.io/badge/Previous%20Page-0077B5?style=for-the-badge)](./e.%20Python%20Variables.md)
-[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](#)
+[![Next Page](https://img.shields.io/badge/Next%20Page-1DA1F2?style=for-the-badge)](./g.%20Basic%20Input%20&%20Output%20in%20Python.md)
