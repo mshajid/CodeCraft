@@ -1,4 +1,19 @@
-# What is an API
+# Understanding APIs: A Beginner's Guide
+
+### Table of Contents
+
+- [Understanding APIs: A Beginner's Guide](#understanding-apis-a-beginners-guide)
+    - [Table of Contents](#table-of-contents)
+  - [What is an API](#what-is-an-api)
+  - [Types of APIs](#types-of-apis)
+  - [Why APIs are Used](#why-apis-are-used)
+  - [Practical Example](#practical-example)
+    - [How This Code Works](#how-this-code-works)
+    - [Now, let's explain how to use these APIs:](#now-lets-explain-how-to-use-these-apis)
+  - [Conclusion](#conclusion)
+
+
+## What is an API
 
 **API**, or **Application Programming Interface**, is a set of rules and protocols that allows one software application to interact with another. It defines the methods and data formats that applications can use to request and exchange information seamlessly. Think of it as the menu and order system in a restaurant; you, the customer (or application), don't need to understand how the kitchen (or another application) prepares your meal (data), but you can place an order (send a request) through the waiter (API), and your dish (data) will be served.
 
