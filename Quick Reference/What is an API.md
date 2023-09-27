@@ -271,6 +271,8 @@ When you send this message, our program will reply with the list of tasks in a f
 
 So, you can use these two parts of our program to add tasks and check the list of tasks whenever you want.
 
+![Restful API Example](../Assets/Quick%20Reference/What%20is%20an%20API/Restful%20API%20Example.jpg)
+
 ## Conclusion
 
 In summary, APIs, or Application Programming Interfaces, are like bridges that enable different software systems to communicate and work together seamlessly. They come in various types to suit different needs and purposes, making them a fundamental part of modern software development.
