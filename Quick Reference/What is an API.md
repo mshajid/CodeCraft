@@ -9,9 +9,8 @@
   - [Why APIs are Used](#why-apis-are-used)
   - [Practical Example](#practical-example)
     - [How This Code Works](#how-this-code-works)
-    - [Now, let's explain how to use these APIs:](#now-lets-explain-how-to-use-these-apis)
+    - [Now, let's explain how to use these APIs](#now-lets-explain-how-to-use-these-apis)
   - [Conclusion](#conclusion)
-
 
 ## What is an API
 
@@ -239,7 +238,7 @@ if __name__ == '__main__':
 _To use this code snippet, simply copy it into a new file called app.py and save it. Then, open a terminal and navigate to the directory where you saved the file. Run the following command to start the Flask development server:_
 `python app.py`
 
-_Your API will now be running on http://localhost:5000. You can use curl or Postman to send requests to the API endpoints._
+_Your API will now be running on <http://localhost:5000>. You can use curl or Postman to send requests to the API endpoints._
 
 ### How This Code Works
 
@@ -249,7 +248,7 @@ In this code, we have created a basic Flask web application with two API endpoin
 
 2. `/get_tasks` (GET): This endpoint retrieves and returns the list of tasks as JSON.
 
-### Now, let's explain how to use these APIs:
+### Now, let's explain how to use these APIs
 
 **Adding a Task:** If you want to add a new task, you can tell our program by sending it a special message. You can do this using a tool like Postman or a command called "curl." When you send this message, you need to include the name of the task you want to add.
 
@@ -262,7 +261,6 @@ For example, you can send a message like this:
 ```
 
 After you send this message, our program will reply and tell you if it added the task successfully or if there was a problem. You'll get a message like this:
-
 
 ```json
 {
