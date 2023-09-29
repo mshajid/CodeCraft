@@ -2,7 +2,7 @@
 
 In C#, when you want to work with decimal numbers very precisely, you should use a special 'm' at the end of the number. This 'm' tells the computer that you want to use a decimal number instead of a regular one.
 
-Here's an example to help you understand:
+Here's an example:
 
 ```csharp
 decimal priceWithTax = 5.0m; // Here, 5.0m means it's a precise decimal number.
