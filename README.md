@@ -37,15 +37,15 @@ We firmly believe in the strength of community-driven learning 🌟. If you're i
 </tr>
 </table>
 
-To connect with us:
+## To connect with us:
 
-- [@SomeOrdinaryBro](https://github.com/SomeOrdinaryBro) 
-  
-  <strong>Discord Username</strong>: axiata.
+- [@SomeOrdinaryBro](https://github.com/SomeOrdinaryBro)
 
-- [@mshajid](https://github.com/mshajid) 
+  <img src="./Assets/README/Discord-SOB.png" width="300px">
 
-  <strong>Discord Username</strong>: shajid.
+- [@mshajid](https://github.com/mshajid)
+
+  <img src="./Assets/README/Discord-SSh.png" width="300px">
 
 ## Join Our Thriving Community 🌐
 
